@@ -32,4 +32,4 @@ document.addEventListener('keydown', function (e) {
     if (left < 360) {
       dodger.style.left = `${left + 1}px`; // Move the dodger 1 pixel to the right
     }
-  }
+  }s
